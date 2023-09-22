@@ -1,0 +1,55 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos de las recetas */
+.receta {
+    margin-bottom: 40px;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.receta h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.receta img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.receta p {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.receta ul, .receta ol {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
